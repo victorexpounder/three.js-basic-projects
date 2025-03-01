@@ -8,3 +8,7 @@ This repo contains three different three js projects to help me understand the b
 
 <img width="1280" alt="Screen Shot 2025-03-01 at 11 13 11 PM" src="https://github.com/user-attachments/assets/093f688a-233e-494c-a488-c175ec369001" />
 <img width="1280" alt="Screen Shot 2025-03-01 at 11 18 48 PM" src="https://github.com/user-attachments/assets/e8e0df5e-28f0-4a15-a929-0ca60168eb60" />
+
+
+https://github.com/user-attachments/assets/dd93ce37-07d5-4920-8292-e0b1a6c7f27b
+
